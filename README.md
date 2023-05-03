@@ -2,6 +2,7 @@
 
 ### Welcome to my profile 💻
 
+<br>
 CSE(DS) Student at Noida Institute Of Engineering and Technology , Greater Noida 🎓
 MERN Developer 🌐
 Loves to Code 👨‍💻

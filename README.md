@@ -1,9 +1,13 @@
- <h1 align="center">Hi 👋, I'm Abhay Patel</h1>
-<h3 align="center">A passionate software Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Abhay Patel</h1>
+<h3 align="center">A passionate Software developer</h3>
 
-- 🌱 I am a **Software Developer**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelabhay12&label=Profile%20views&color=0e75b6&style=flat" alt="patelabhay" /> </p>
+<p align="left"> <a href="https://twitter.com/AbhayPa06048327" target="blank"><img src="https://img.shields.io/twitter/follow/abhaypatel?logo=twitter&style=for-the-badge" alt="patelabhay" /></a> </p>
 
-- 📫 mail id: **abhaypatel**
+- 🌱 I’m currently learning **DSA**
+
+- 💬 Ask me about **JavaScript, React and Node.**
+
 # 📊 GitHub Stats:-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=patelabhay12&theme=aura&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hittitech&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->

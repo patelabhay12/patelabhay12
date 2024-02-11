@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelabhay12&label=Profile%20views&color=0e75b6&style=flat" alt="patelabhay" /> </p>
 <p align="left"> <a href="https://twitter.com/AbhayPa06048327" target="blank"><img src="https://img.shields.io/twitter/follow/abhaypatel?logo=twitter&style=for-the-badge" alt="patelabhay" /></a> </p>
 
-<div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://res.cloudinary.com/djo0mmfll/image/upload/v1686268899/gfgfcfg_eb84wp.gif" />
-<div align="left"> 
  
 - 🌱 I’m currently learning **DSA**
  

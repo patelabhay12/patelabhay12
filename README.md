@@ -1,48 +1,103 @@
-<h1 align="center">Hi 👋, I'm Abhay Patel</h1>
-<h3 align="center">A passionate Software developer</h3>
+# 👋 Hi, I'm **Abhay Patel**
+### 💻 Software Developer | Java & Spring Boot | Android (Kotlin) | Web Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelabhay12&label=Profile%20views&color=0e75b6&style=flat" alt="patelabhay" /> </p>
-<p align="left"> <a href="https://twitter.com/AbhayPa06048327" target="blank"><img src="https://img.shields.io/twitter/follow/abhaypatel?logo=twitter&style=for-the-badge" alt="patelabhay" /></a> </p>
-
- 
-- 🌱 I’m currently learning **DSA**
- 
-- 💬 Ask me about **JavaScript, React and Node.**
-
-
-
-# 📊 GitHub Stats:-
-![](https://github-readme-streak-stats.herokuapp.com/?user=patelabhay12&theme=aura&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=patelabhay12&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br>
-
-<p align="">
-  <a href="https://github.com/patelabhay12">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=patelabhay12&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/patelabhay12">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelabhay12&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
-</details>
-<br>
-
-|               |           |
-|       ---     |    ---    |
-| `Web-Dev`     | ![JavaScript](https://img.shields.io/badge/-javascript-white?style=for-the-badge&logo=javascript&logoColor=white&logoWidth=20&color=F1DB4E) ![ReactJS](https://img.shields.io/badge/-React-orange?color=09D9FE&style=for-the-badge&logo=React&logoColor=white&logoWidth=20) ![NodeJS](https://img.shields.io/badge/-Node-orange?color=8BBF3F&style=for-the-badge&logo=NODE&logoColor=white&logoWidth=20) ![Express](https://img.shields.io/badge/-Express-orange?color=8BBF3F&style=for-the-badge&logo=Express&logoColor=white&logoWidth=20) ![HTML5](https://img.shields.io/badge/-HTML5-white?color=ff6529&style=for-the-badge&logo=HTML5&logoColor=white&logoWidth=20) ![CSS3](https://img.shields.io/badge/-CSS3-orange?color=264DE4&style=for-the-badge&logo=CSS3&logoColor=white&logoWidth=20) ![Bootstrap](https://img.shields.io/badge/bootstrap-FE9A00?style=for-the-badge&logo=bootstrap&logoColor=white) ![Nexjs](https://img.shields.io/badge/-NEXT-orange?color=8BBF3F&style=for-the-badge&logo=NEXT&logoColor=white&logoWidth=20)
-| `Languages`   | ![C++](https://img.shields.io/badge/-C%2B%2B-white?color=blue&style=for-the-badge&logo=C%2B%2B&logoColor=white&logoWidth=20) ![C](https://img.shields.io/badge/-C-white?color=2a1d80&style=for-the-badge&logo=C&logoColor=white&logoWidth=20) ![Python](https://img.shields.io/badge/-Python-orange?color=205966&style=for-the-badge&logo=Python&logoColor=white&logoWidth=20) ![MySQL](https://img.shields.io/badge/-MySQL-307BBD?style=for-the-badge&logo=mysql&logoColor=white) 
-| `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-AA42F1.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-
-
-
-<h3 align="left">Connect with me::</h3>
 <p align="left">
-<a href="https://twitter.com/AbhayPa06048327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adnan9381" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abhay-patel-8b671921a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhaypatel" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=patelabhay12&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+<p align="left">
+  <a href="https://twitter.com/AbhayPa06048327" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/abhaypatel?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+- 🌱 Currently learning **Data Structures & Algorithms**
+- 📱 Exploring **Android Development using Kotlin**
+- 💬 Ask me about **Java, Spring Boot, Android (Kotlin), JavaScript, React, Node.js**
+- 🔭 I enjoy building efficient backend systems, scalable Android apps, and responsive web applications  
+- 🎯 Goal: Become a highly skilled **Full-Stack Java + Android Developer**
+
+---
+
+## 🛠️ Tech Stack
+
+### **📱 Android Development**
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+
+---
+
+### **💻 Web Development**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F1DB4E?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-09D9FE?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-8BBF3F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-444444?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-ff6529?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+### **☕ Backend Development (Java Ecosystem)**
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+---
+
+### **🧠 Programming Languages**
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-2a1d80?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-205966?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-307BBD?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### **🧰 Tools & Platforms**
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-5D1A60?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+### 🔥 Streak Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=patelabhay12&theme=tokyonight&hide_border=false)
+
+### 📈 GitHub Stats  
+<details open>
+  <summary><strong>Click to Expand</strong></summary>
+  <br/>
+  <p align="left">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=patelabhay12&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelabhay12&layout=compact&hide_border=true&theme=tokyonight&langs_count=10"/>
+  </p>
+</details>
+
+---
+
+## 🤝 Connect With Me
+<p align="left">
+  <a href="https://twitter.com/AbhayPa06048327" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhay-patel-8b671921a/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+</p>
+
+---

@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Abhay Patel**
-### 💻 Software Developer | Java & Spring Boot | Android (Kotlin) | Web Developer
+### 💻 Software Developer | Java & Spring Boot | Android (Kotlin) | Full Stack Developer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=patelabhay12&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />

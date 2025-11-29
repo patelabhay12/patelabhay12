@@ -17,9 +17,10 @@
 - 🌱 Currently learning **Data Structures & Algorithms**
 - 📱 Exploring **Android Development using Kotlin**
 - 💬 Ask me about **Java, Spring Boot, Android (Kotlin), JavaScript, React, Node.js**
-- 🔭 I enjoy building efficient backend systems, scalable Android apps, and responsive web applications  
+- 🌐 Check out my **Portfolio:** https://patelabhay12.github.io/AbhayPortfolio/
+- 🔭 I enjoy building backend systems, scalable Android apps, and responsive web applications  
 - 🎯 Goal: Become a highly skilled **Full-Stack Java + Android Developer**
-
+  
 ---
 
 ## 🛠️ Tech Stack

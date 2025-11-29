@@ -83,8 +83,8 @@
   <summary><strong>Click to Expand</strong></summary>
   <br/>
   <p align="left">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=patelabhay12&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelabhay12&layout=compact&hide_border=true&theme=tokyonight&langs_count=10"/>
+    <img height="180px" src="https://github-readme-stats-one-bice.vercel.app/api?username=patelabhay12&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="180px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=patelabhay12&layout=compact&theme=tokyonight&hide_border=true" />
   </p>
 </details>
 

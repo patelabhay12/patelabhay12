@@ -1,13 +1,18 @@
-# 👋 Hi, I'm **Abhay Patel**
-### 💻 Software Developer | Java & Spring Boot | Android (Kotlin) | Full Stack Developer
+<h1 align="center">👋 Hi, I'm <strong>Abhay Patel</strong></h1>
+<h3 align="center">Software Developer | Java & Spring Boot | Android (Kotlin) | Full Stack Developer</h3>
 
-<!-- <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=patelabhay12&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p> -->
-
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/AbhayPa06048327" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/abhaypatel?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    <img src="https://img.shields.io/badge/-Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/abhay-patel-8b671921a/" target="_blank">
+    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/iabhay_099" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:abhaypatel6794@gmail.com">
+    <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 

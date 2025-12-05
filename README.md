@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/abhay-patel-8b671921a/" target="_blank">
     <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://instagram.com/iabhay_099" target="_blank">
+  <a href="https://instagram.com/iabhay_909" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:abhaypatel6794@gmail.com">

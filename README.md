@@ -96,6 +96,12 @@
 
 ---
 
+<!-- Snake Game Repo View -->
+<div align="left">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 ## 🤝 Connect With Me
 <p align="left">
   <a href="https://twitter.com/AbhayPa06048327" target="_blank">

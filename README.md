@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
----
  
 ## 🚀 About Me
 - 💼 Full-Stack Software Engineer with **1.8+ years** of experience building scalable, production-grade web applications
@@ -26,7 +25,7 @@
 - 🧮 Solved **300+ DSA problems** on LeetCode
 - 🌐 Portfolio: https://patelabhay12.github.io/AbhayPortfolio/
 - 🎯 Goal: Grow into a senior full-stack engineer specializing in scalable systems and clean architecture
----
+
  
 ## 🛠️ Tech Stack
  
@@ -120,7 +119,7 @@
     <img height="180px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=patelabhay12&layout=compact&theme=tokyonight&hide_border=true" />
   </p>
 </details>
----
+
  
 <!-- Snake Game Repo View -->
 <div align="left">
@@ -135,4 +134,3 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 </p>
----

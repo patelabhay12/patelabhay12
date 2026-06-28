@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <strong>Abhay Patel</strong></h1>
 <h3 align="center">Full-Stack Software Engineer | Java & Spring Boot | React & Node.js | AWS</h3>
- 
+
 <p align="center">
   <a href="https://twitter.com/AbhayPa06048327" target="_blank">
     <img src="https://img.shields.io/badge/-Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">

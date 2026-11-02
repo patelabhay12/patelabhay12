@@ -17,7 +17,7 @@
 </p>
  
 ## 🚀 About Me
-- 💼 Full-Stack Software Engineer with **1.8+ years** of experience building scalable, production-grade web applications
+- 💼 Full-Stack Software Engineer with **2+ years** of experience building scalable, production-grade web applications
 - 🛠️ Working daily with **React, Node.js, Java, and Spring Boot** to ship data-intensive UIs and high-performance REST APIs
 - ☁️ Comfortable across the stack — from frontend components to backend services, databases, and AWS infrastructure
 - 🌱 Currently deepening my knowledge of **System Design, Distributed Systems, and Scalability**
